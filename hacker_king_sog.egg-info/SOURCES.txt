@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.py
+hacker_king_sog/__init__.py
+hacker_king_sog/core.c
+hacker_king_sog/core_cython_wrapper.c
+hacker_king_sog/wasm_payload.wat
+hacker_king_sog.egg-info/PKG-INFO
+hacker_king_sog.egg-info/SOURCES.txt
+hacker_king_sog.egg-info/dependency_links.txt
+hacker_king_sog.egg-info/entry_points.txt
+hacker_king_sog.egg-info/not-zip-safe
+hacker_king_sog.egg-info/top_level.txt

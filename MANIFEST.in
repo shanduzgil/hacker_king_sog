@@ -1,0 +1,2 @@
+include hacker_king_sog/libfake.so
+include hacker_king_sog/wasm_payload.wat

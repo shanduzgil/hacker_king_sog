@@ -1,0 +1,2 @@
+[console_scripts]
+hacker_king_sog = hacker_king_sog.__init__:main
