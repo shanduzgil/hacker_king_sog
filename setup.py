@@ -15,7 +15,7 @@ extensions = [
 
 setup(
     name='hacker_king_sog',
-    version='1.0.2',
+    version='1.0.6',
     description='Ultimate Next-Gen Penetration Tool (Fully Operational)',
     author='Abolfazl Soleimani',
     packages=['hacker_king_sog'],

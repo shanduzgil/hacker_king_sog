@@ -89,7 +89,7 @@ bash 3.sh
 نمونه خروجی:
 
 [+] Starting hacker_king_sog
-[+] Version: 1.0.3
+[+] Version: 1.0.6
 [+] Checking environment
 [+] Loading modules
 [+] Completed successfully
